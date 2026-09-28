@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-28T02:47:32.784747373Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-09-28T02:48:41.692995445Z",
     "templateType": "trip_l",
     "propertyId": "89355fea-b9d0-4f89-b617-dfdb1846cc96",
     "homepageId": "01a0aa15-1516-75c2-aa2c-b058e7dac07a"
@@ -1498,7 +1498,16 @@
               },
               "signature": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a0e5ea-199c-7825-9c77-8a76f6ed10d8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa15-1516-75c2-aa2c-b058e7dac07a/index_signature/1790563719276-ev8qjcfqzx.webp",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
@@ -2084,7 +2093,7 @@
             {
               "id": "01a0aa1a-ac99-7b79-8925-7372aace9c62",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa15-1516-75c2-aa2c-b058e7dac07a/roomtype_thumbnail/1789560268722-g8wwj7nksw.jpg",
-              "sortOrder": 1,
+              "sortOrder": 0,
               "description": "",
               "isSelected": true,
               "blockId": "f77c2f40-88e9-464f-8dbb-9a6e3e6c6f98",
@@ -2217,7 +2226,7 @@
             {
               "id": "01a0aa15-4c0e-78e8-a382-6ea3046e6873",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0aa15-1516-75c2-aa2c-b058e7dac07a/roomtype_thumbnail/1789559910032-akes95zrl5.jpg",
-              "sortOrder": 0,
+              "sortOrder": 1,
               "description": "",
               "isSelected": true,
               "blockId": "f2fe807b-0fa2-49ce-a916-a58cb493013c",
